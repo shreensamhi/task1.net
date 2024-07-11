@@ -1,12 +1,13 @@
 ﻿using System;
 using System.ComponentModel.Design;
-
+// shreen
 class student
 {
     public int ssn;
     public int age;
     public String name;
     public String phone;
+
     public student(int ssn, int age, String name)
     {
         this.ssn = ssn;
